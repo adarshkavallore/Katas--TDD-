@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\H359686\\Coding dojo\\Katas\\TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj": {}
+    "C:\\Users\\H359686\\Documents\\GitHub\\Katas--TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\H359686\\Coding dojo\\Katas\\TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj": {
+    "C:\\Users\\H359686\\Documents\\GitHub\\Katas--TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\H359686\\Coding dojo\\Katas\\TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj",
+        "projectUniqueName": "C:\\Users\\H359686\\Documents\\GitHub\\Katas--TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj",
         "projectName": "Mummifier",
-        "projectPath": "C:\\Users\\H359686\\Coding dojo\\Katas\\TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj",
+        "projectPath": "C:\\Users\\H359686\\Documents\\GitHub\\Katas--TDD\\tdd-demo-mummifier\\Mummifier\\Mummifier.csproj",
         "packagesPath": "C:\\Users\\H359686\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\H359686\\Coding dojo\\Katas\\TDD\\tdd-demo-mummifier\\Mummifier\\obj\\",
+        "outputPath": "C:\\Users\\H359686\\Documents\\GitHub\\Katas--TDD\\tdd-demo-mummifier\\Mummifier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

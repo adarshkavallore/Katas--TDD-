@@ -6,3 +6,11 @@ C:\Users\H359686\Coding dojo\Katas\TDD\tdd-demo-mummifier\Mummifier\obj\Debug\ne
 C:\Users\H359686\Coding dojo\Katas\TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.AssemblyInfo.cs
 C:\Users\H359686\Coding dojo\Katas\TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.dll
 C:\Users\H359686\Coding dojo\Katas\TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.pdb
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\bin\Debug\netstandard2.0\Mummifier.deps.json
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\bin\Debug\netstandard2.0\Mummifier.dll
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\bin\Debug\netstandard2.0\Mummifier.pdb
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.csprojAssemblyReference.cache
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.AssemblyInfoInputs.cache
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.AssemblyInfo.cs
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.dll
+C:\Users\H359686\Documents\GitHub\Katas--TDD\tdd-demo-mummifier\Mummifier\obj\Debug\netstandard2.0\Mummifier.pdb

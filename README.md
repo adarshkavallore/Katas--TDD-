@@ -45,7 +45,7 @@ This project was designed do cover the following use cases and requirements:
 
 ## :computer: Tech stuff
 
-* .NET Core 2.0
+* .NET Standard 2.0
 * nUnit
 
 
